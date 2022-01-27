@@ -1,0 +1,7 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "hardhat": "^2.8.3",
+    "mocha": "^9.2.0"
+  }
+}
